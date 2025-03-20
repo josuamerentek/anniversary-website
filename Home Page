@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - Anniversary</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <audio autoplay loop>
+        <source src="JVKE - golden hour (instrumental).mp3" type="audio/mp3">
+    </audio>
+    <div class="gallery-container">
+        <h1>Happy Anniversary 20</h1>
+        <div class="gallery">
+            <img src="photo1.jpg" alt="Momen 1">
+            <img src="photo2.jpg" alt="Momen 2">
+            <img src="photo3.jpg" alt="Momen 3">
+        </div>
+    </div>
+</body>
+</html>
